@@ -26,6 +26,5 @@ Authors
 
 Source
 ------
-* Documentation: <http://ondrejsika.com/docs/django-applabel>
 * Python Package Index: <http://pypi.python.org/pypi/django-applabel>
 * GitHub: <https://github.com/sikaondrej/django-applabel>
